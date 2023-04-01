@@ -1,4 +1,4 @@
-# VCD Frequency Analyzer
+# VCD Frequency Analyser
 
 This is a simple program written in Rust that takes a Value Change Dump (VCD) file as input and generates a CSV file with the switching activity frequency over time.
 
@@ -17,7 +17,7 @@ To run this program, you need to have Rust installed on your system. If you don'
 
 ## Installation
 
-To install the VCD Frequency Analyzer, follow these steps:
+To install the VCD Frequency Analyser, follow these steps:
 
 1. Clone the repository:
 `git clone https://github.com/marlls1989/vcd_frequency.git`
@@ -32,7 +32,7 @@ To install the VCD Frequency Analyzer, follow these steps:
 
 ## Usage
 
-To use the VCD Frequency Analyzer, run the following command:
+To use the VCD Frequency Analyser, run the following command:
 
 `vcd_frequency <INPUT_FILE> <OUTPUT_FILE>`
 
